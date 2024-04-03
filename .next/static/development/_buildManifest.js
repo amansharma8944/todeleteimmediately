@@ -1,0 +1,1 @@
+self.__BUILD_MANIFEST = {__rewrites:{afterFiles:[],beforeFiles:[],fallback:[]},"/LoginGoogle/page":["static\u002Fchunks\u002Fpages\u002FLoginGoogle\u002Fpage.js"],"/_error":["static\u002Fchunks\u002Fpages\u002F_error.js"],sortedPages:["\u002FLoginGoogle\u002Fpage","\u002F_app","\u002F_error"]};self.__BUILD_MANIFEST_CB && self.__BUILD_MANIFEST_CB()
